@@ -7,8 +7,6 @@ use serenity::model::channel::Message;
 use serenity::model::prelude::ChannelId;
 use serenity::prelude::*;
 
-// https://discord.com/api/oauth2/authorize?client_id=1161569584978083860&permissions=268437504&scope=bot
-
 struct Handler;
 
 #[async_trait]
